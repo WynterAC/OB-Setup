@@ -4,20 +4,15 @@
   "cssTheme": "Mado Miniflow",
   "theme": "system",
   "baseFontSizeAction": true,
-  "interfaceFontFamily": "",
-  "textFontFamily": "Carlito",
-  "monospaceFontFamily": "",
+  "interfaceFontFamily": "Arial Unicode MS",
+  "textFontFamily": "HelveticaNeue-Light,HelveticaNeue-Thin,HelveticaNeue-UltraLight,Arial Unicode MS,Helvetica Neue,Shree Devanagari 714,SFPro-Light,SFPro-Thin,SFProDisplay-Thin,SFProDisplay-Light",
+  "monospaceFontFamily": "Shree Devanagari 714,Arial Unicode MS,SFProDisplay-Thin,SFProDisplay-Light,SFPro-Thin,SFPro-Light",
   "enabledCssSnippets": [
     "MyStyle",
     "SlRvb Checkboxes"
   ],
-  "accentColor": "#9580ff",
+  "accentColor": "#5ba8ff",
   "showViewHeader": true,
   "nativeMenus": false
 }
-  "interfaceFontFamily": "Arial Unicode MS,HelveticaNeue-Light",
-  "textFontFamily": "HelveticaNeue-Light,HelveticaNeue-Thin,HelveticaNeue-UltraLight,Arial Unicode MS,Helvetica Neue,Shree Devanagari 714,SFPro-Light,SFPro-Thin,SFProDisplay-Thin,SFProDisplay-Light",
-  "monospaceFontFamily": "Shree Devanagari 714,Arial Unicode MS,SFProDisplay-Thin,SFProDisplay-Light,SFPro-Thin,SFPro-Light",
-  "translucency": false,
-  "nativeMenus": true
-}
+  
